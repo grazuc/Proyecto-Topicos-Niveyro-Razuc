@@ -1,0 +1,282 @@
+[
+    {
+        "id": "1",
+        "title": "Star Wars: A New Hope",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A young farmer joins the rebellion.",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "2",
+        "title": "Interstellar",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A journey to the farthest reaches of space to save humanity.",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "19",
+        "title": "Blade Runner",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmMxYjQ0NzctMTY4Ny00MGZjLTk2YjUtNjJmMGVmZjY5NjUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "plot": "A dystopian future with synthetic humans.",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "20",
+        "title": "The Matrix",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3MjktNDNlMy00MzQzLWI2NTktYjM2NTZiYzg0MzZkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "plot": "A computer hacker learns the truth about reality.",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "3",
+        "title": "The Shawshank Redemption",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "Two imprisoned men bond over years.",
+        "genre": "Drama"
+    },
+    {
+        "id": "4",
+        "title": "Forrest Gump",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "Life is like a box of chocolates.",
+        "genre": "Drama"
+    },
+    {
+        "id": "21",
+        "title": "Fight Club",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjUwNTM5Nl5BMl5BanBnXkFtZTcwNzUxMzEzNQ@@._V1_.jpg",
+        "plot": "An underground fight club as a form of male bonding.",
+        "genre": "Drama"
+    },
+    {
+        "id": "22",
+        "title": "12 Angry Men",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGMxZjA4YzItMjZhNi00M2I5LTk0YmQtNTRkZTYxOGExMzlkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+        "plot": "A jury deliberates on a murder trial.",
+        "genre": "Drama"
+    },
+    {
+        "id": "5",
+        "title": "Pulp Fiction",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "Interconnected stories of crime.",
+        "genre": "Crime"
+    },
+    {
+        "id": "6",
+        "title": "The Godfather",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "An organized crime dynasty.",
+        "genre": "Crime"
+    },
+    {
+        "id": "23",
+        "title": "Goodfellas",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAxM2U5YzgtNjMwNC00N2IxLWE4OTktY2ExNzVmNGFjODhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "plot": "The rise and fall of a mob associate.",
+        "genre": "Crime"
+    },
+    {
+        "id": "24",
+        "title": "Se7en",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjI4NTE2NDk0Nl5BMl5BanBnXkFtZTcwOTcwNzIzMw@@._V1_.jpg",
+        "plot": "Detectives hunt for a serial killer who uses the seven deadly sins.",
+        "genre": "Crime"
+    },
+    {
+        "id": "7",
+        "title": "The Dark Knight",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "Batman faces the Joker.",
+        "genre": "Action"
+    },
+    {
+        "id": "8",
+        "title": "Avengers: Endgame",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "The epic conclusion to the Infinity Saga.",
+        "genre": "Action"
+    },
+    {
+        "id": "25",
+        "title": "Gladiator",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkzZWRkNTMtZTdlZC00NzRmLWJjZmUtNGM1ZGE2NzY5NGI1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "plot": "A betrayed Roman general seeks revenge.",
+        "genre": "Action"
+    },
+    {
+        "id": "26",
+        "title": "Mad Max: Fury Road",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MTU5MTg2Nl5BMl5BanBnXkFtZTgwNTU4NTYzNjE@._V1_.jpg",
+        "plot": "A high-octane chase through the desert.",
+        "genre": "Action"
+    },
+    {
+        "id": "9",
+        "title": "The Pianist",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A musician survives the Holocaust.",
+        "genre": "History"
+    },
+    {
+        "id": "10",
+        "title": "Schindler's List",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A man saves Jews during the Holocaust.",
+        "genre": "History"
+    },
+    {
+        "id": "27",
+        "title": "Lincoln",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODczMTc5MF5BMl5BanBnXkFtZTcwOTc5NjM3OA@@._V1_.jpg",
+        "plot": "President Lincoln struggles to pass the 13th Amendment.",
+        "genre": "History"
+    },
+    {
+        "id": "28",
+        "title": "Dunkirk",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQzOTUyMzgxN15BMl5BanBnXkFtZTgwODg0NzM0MjI@._V1_.jpg",
+        "plot": "The evacuation of Allied soldiers from Dunkirk during World War II.",
+        "genre": "History"
+    },
+    {
+        "id": "11",
+        "title": "The Lord of the Rings: The Two Towers",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "The journey continues.",
+        "genre": "Fantasy"
+    },
+    {
+        "id": "12",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A young wizard discovers his magical heritage.",
+        "genre": "Fantasy"
+    },
+    {
+        "id": "29",
+        "title": "The Hobbit: An Unexpected Journey",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMzEwMzEyN15BMl5BanBnXkFtZTcwNTc5NTYwOA@@._V1_.jpg",
+        "plot": "Bilbo Baggins embarks on a quest.",
+        "genre": "Fantasy"
+    },
+    {
+        "id": "30",
+        "title": "Pan's Labyrinth",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE1OTgzNTczMl5BMl5BanBnXkFtZTcwODg4Mjk0MQ@@._V1_.jpg",
+        "plot": "A young girl discovers a magical labyrinth.",
+        "genre": "Fantasy"
+    },
+    {
+        "id": "13",
+        "title": "The Notebook",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A timeless love story.",
+        "genre": "Romance"
+    },
+    {
+        "id": "14",
+        "title": "La La Land",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A musical love story between a jazz musician and an aspiring actress.",
+        "genre": "Romance"
+    },
+    {
+        "id": "31",
+        "title": "Titanic",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmMxNjM4NjQtOTY3Ny00YTI1LWIzN2QtNTQwMTM0ZTE4MzU3XkEyXkFqcGdeQXVyNTI1MjMzMzQ@._V1_.jpg",
+        "plot": "A tragic love story aboard the Titanic.",
+        "genre": "Romance"
+    },
+    {
+        "id": "32",
+        "title": "Pride and Prejudice",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA2OTY0Njc2Ml5BMl5BanBnXkFtZTgwODc4MDg5NzE@._V1_.jpg",
+        "plot": "Elizabeth Bennet navigates the mores of British society.",
+        "genre": "Romance"
+    },
+    {
+        "id": "15",
+        "title": "Jurassic Park",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "Dinosaurs roam the Earth again.",
+        "genre": "Adventure"
+    },
+    {
+        "id": "33",
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjViNDUzZjktNzY3My00ZjYzLTljYzgtZmRjNjJjMjMxYzQ2XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_.jpg",
+        "plot": "Indiana Jones races against Nazis to find the Ark of the Covenant.",
+        "genre": "Adventure"
+    },
+    {
+        "id": "34",
+        "title": "The Revenant",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NjQ3MzYwNl5BMl5BanBnXkFtZTgwMjEyODU5NzE@._V1_.jpg",
+        "plot": "A frontiersman fights for survival after being mauled by a bear.",
+        "genre": "Adventure"
+    },
+    {
+        "id": "35",
+        "title": "Life of Pi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDI3NzMyNl5BMl5BanBnXkFtZTcwNzUxMzEzNQ@@._V1_.jpg",
+        "plot": "A young man survives a shipwreck with a Bengal tiger.",
+        "genre": "Adventure"
+    },
+    {
+        "id": "16",
+        "title": "Up",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "An elderly man fulfills his dream of adventure.",
+        "genre": "Animation"
+    },
+    {
+        "id": "17",
+        "title": "Toy Story",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A group of toys come to life.",
+        "genre": "Animation"
+    },
+    {
+        "id": "36",
+        "title": "Finding Nemo",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjRmYjM5ZjUtZmYxOS00OGY5LThhMGQtNTlkMTNiNTRkMzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "plot": "A clownfish searches for his son.",
+        "genre": "Animation"
+    },
+    {
+        "id": "37",
+        "title": "Shrek",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGU4NWMxYjEtM2FmOC00Mzg5LTk1M2UtMmQ5OTM1NmM4OGMyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "plot": "An ogre sets out to rescue a princess.",
+        "genre": "Animation"
+    },
+    {
+        "id": "18",
+        "title": "Saving Private Ryan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "plot": "A mission to save one soldier.",
+        "genre": "War"
+    },
+    {
+        "id": "38",
+        "title": "1917",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MDA1OTI3N15BMl5BanBnXkFtZTgwNjYyMzQ1NzM@._V1_.jpg",
+        "plot": "Two British soldiers are sent on a mission during WWI.",
+        "genre": "War"
+    },
+    {
+        "id": "39",
+        "title": "Apocalypse Now",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWQwYTc2NzUtZWFhOS00OGM5LTg0YmEtZjZlY2FiNzdmNTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "plot": "A mission to assassinate a rogue colonel in Vietnam.",
+        "genre": "War"
+    },
+    {
+        "id": "40",
+        "title": "The Hurt Locker",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MDI3NjYzMF5BMl5BanBnXkFtZTcwMjY2OTY5Mg@@._V1_.jpg",
+        "plot": "A bomb disposal team in Iraq.",
+        "genre": "War"
+    }
+]

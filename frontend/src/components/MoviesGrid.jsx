@@ -22,7 +22,7 @@ const MoviesGrid = ({ movies, onMovieClick }) => {
         >
           <img src={movie.poster} alt={movie.title} />
           <h3>{movie.title}</h3>
-          <p>{movie.plot}</p>
+          {/*<p>{movie.plot}</p>*/}
         </div>
       ))}
     </div>

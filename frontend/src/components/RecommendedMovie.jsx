@@ -9,18 +9,19 @@ const RecommendedMovie = ({ recommendations }) => {
       </div>
     );
   }
-
-  const recommendation = recommendations[0]; // Asegura que estamos accediendo correctamente
-  return (
-    <div className="recommended-movie">
-      <h2>Recommended Movie</h2>
-      <div>
-        <h3>{recommendation.title}</h3>
-        <img src={recommendation.poster} alt={recommendation.title} width="200" height="200" />
-        <p>{recommendation.plot}</p>
+  else{
+    const recommendation = recommendations[0]; // Asegura que estamos accediendo correctamente
+    return (
+      <div className="recommended-movie">
+        <h2>Recommended Movie</h2>
+        <div>
+          <h3>{recommendation.title}</h3>
+          <img src={recommendation.poster} alt={recommendation.title} width="200" height="200"/> 
+          <p>{recommendation.plot}</p>
+        </div>
       </div>
-    </div>
-  );
+    );
+  }
 };
 
 export default RecommendedMovie;

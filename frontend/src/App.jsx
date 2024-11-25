@@ -40,14 +40,21 @@ const App = () => {
   return (
     <div>
       <h1>Movie Recommender</h1>
-      <MoviesGrid movies={movies} onMovieClick={handleMovieClick} />
-      {selectedMovie && (
-        <div>
-          <h2>Selected Movie: {selectedMovie.title}</h2>
-          <p>{selectedMovie.plot}</p>
-        </div>
-      )}
-      <RecommendedMovie recommendations={recommended} />
+      <div className="InfoDiv">
+        <MoviesGrid movies={movies} onMovieClick={handleMovieClick} />
+        {selectedMovie && (
+          <div className = "overlayStyle">
+            <div className = "popupStyle">
+              <button onClick={() => setSelectedMovie(null)}>X</button>
+              <h2>Selected Movie: {selectedMovie.title}</h2>
+              <p>{selectedMovie.plot}</p>
+              <img src={selectedMovie.poster} alt={selectedMovie.title} width="200" height="200"/>               
+            </div>
+          </div>
+        )}
+
+        <RecommendedMovie recommendations={recommended} />
+      </div>
     </div>
   );
 };

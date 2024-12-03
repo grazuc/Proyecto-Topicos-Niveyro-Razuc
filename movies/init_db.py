@@ -10,8 +10,8 @@ db = client["movies_db"]
 # Cargar datos desde sample_data.json
 with open("sample_data.json") as f:
     movies = json.load(f)
-    if db.movies.count_documents({}) == 0:  # Evita duplicados
-        db.movies.insert_many(movies)
-        print("Datos insertados correctamente en MongoDB.")
-    else:
-        print("Los datos ya existen en la base de datos.")
+
+    # Elimina todos los documentos de la colección y carga los datos nuevos
+    db.movies.delete_many({})  # Elimina todos los documentos existentes
+    db.movies.insert_many(movies)  # Inserta los nuevos datos
+    print("Datos reemplazados correctamente en MongoDB.")

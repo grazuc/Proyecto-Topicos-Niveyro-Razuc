@@ -1,5 +1,7 @@
 ## Proyecto Microservicios - Materia: Tópicos Avanzados de Desarrollo Web
 
+### Alumnos: Ignacio Niveyro - Gonzalo Razuc
+
 El proyecto consiste en la implementación de una página simple que recomienda películas en función de las peliculas que el usuario examina. La página simplemente muestra un mosaico de posters de peliculas en una grilla. Cuando el usuario clickea un poster puede ver el plot de la película. 
 El sistema registra el historial de películas que el usuario viene examinando y recomienda una pelicula en función de las **últimas 3 examinadas**. La recomendación puede ubicarse como poster en un panel aparte, al estilo Youtube, o puede reemplazar alguna pelicula de la grilla. 
 

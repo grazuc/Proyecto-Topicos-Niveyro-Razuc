@@ -18,5 +18,5 @@ El microservicio de historial guarda información en RabbitMQ, y el recomendador
 
 ### Para ejecutar el proyecto
 
-Tener Docker en su sistema y ejecutar en la raíz del proyecto ``` docker-compose up --build ```
+Tener Docker en su sistema y ejecutar en la raíz del proyecto ``` docker-compose up ```
 El proyecto se puede probar en https://localhost:3000 
